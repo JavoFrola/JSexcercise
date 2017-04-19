@@ -6,4 +6,4 @@
         }
 
 	}
-console.log(num);
+console.log(number);
